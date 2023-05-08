@@ -1,0 +1,69 @@
+body {
+    margin: 0 auto;
+    font-family: arial;
+    background-color: lightgrey;
+   
+}
+
+.header {
+    background-color: white;
+    height: 40px;
+    display: flex;
+}
+
+.header h1 {
+    font-size: 20px;
+    margin: 0px 300px 0px 295px;
+    padding: 5px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 400px;
+    height: 340px;
+    margin-top: 30px;
+    background-color: white;
+}
+
+.top {
+    height: 28px;
+    padding: 2px;
+}
+
+.top p {
+    display: inline-block;
+    margin: 5px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#date {
+    float: right;
+    color: grey;
+    opacity: 0.7;
+}
+
+.content {
+    height: 270px;
+}
+
+img {
+    width: 400px;
+    height: 270px;
+}
+
+.bottom {
+    height: 40px;
+
+}
+
+.bottom p { 
+    font-size: 11px;
+    text-align: justify;
+    padding: 8px;
+   
+}
+
+#interestellar {
+    margin-bottom: 30px;
+}
